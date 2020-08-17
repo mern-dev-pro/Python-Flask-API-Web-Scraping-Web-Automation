@@ -11,6 +11,5 @@ EXTRAS
         
         Extracted DATA about bus stages from a website
         
-        [Snapshot]
-        https://github.com/gvipul-294/Python-flask-API-for-Students/blob/master/IMG-20180531-WA0003.jpg
+<img src="static/images/IMG-20180419-WA0002.jpg" width=600 height=340>
         
